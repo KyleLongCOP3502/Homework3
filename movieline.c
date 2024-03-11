@@ -1,3 +1,12 @@
+/*
+/
+/ Name: Kyle Long
+/
+/ Date: 3/10/2024
+/
+/ Program: movieline.c
+/
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
